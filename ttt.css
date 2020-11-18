@@ -1,0 +1,16 @@
+body{background-color: rgb(255,0,0);
+	background-image: url('../图片/玫瑰星空.jpg');
+	 background-repeat: no-repeat;
+	 background-attachment: scroll;
+	 background-position: center;}
+div .aaa  #bb{background: #ff00ff
+	url('../图片/玫瑰星空.jpg')
+	no-repeat
+	fixed
+	center}
+p .dd{text-align: right;
+	text-decoration: overline;
+	text-transform: capitalize;
+	color: blue;
+	text-indent: 20px;
+	word-spacing: 5px;}
